@@ -1,3 +1,4 @@
-export class CraeteTaskDto {
-  
+export class CreateTaskDto {
+  title: string;
+  description: string;
 }
